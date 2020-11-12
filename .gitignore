@@ -1,0 +1,13 @@
+.idea/
+.ipynb_checkpoints/
+
+build/
+dist/
+venv*/
+
+*.pyc
+*.ipynb
+
+tmp_*
+*.csv
+
