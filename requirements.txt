@@ -1,2 +1,4 @@
 pyqtgraph
+pyqt5
+pyopengl
 numpy
